@@ -15,6 +15,14 @@ export class CardList extends LitElement {
   render() {
     return html`
      <character-card></character-card>
+     <character-card></character-card>
+     <character-card></character-card>
+     <character-card></character-card>
+     <character-card></character-card>
+     <player-card></player-card>
+     <player-card></player-card>
+     <player-card></player-card>
+     <player-card></player-card>
      <player-card></player-card>
     `;
   }
