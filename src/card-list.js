@@ -15,7 +15,9 @@ export class CardList extends LitElement {
   render() {
     return html`
      <character-card></character-card>
-     <character-card></character-card>
+     <character-card
+     name = 'Obi-wan';
+     ></character-card>
      <character-card></character-card>
      <character-card></character-card>
      <character-card></character-card>
