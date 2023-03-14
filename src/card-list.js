@@ -17,7 +17,7 @@ export class CardList extends LitElement {
      <character-card></character-card>
      <character-card name = 'Obi-wan'></character-card>
      <character-card name = "Hello There" top="Hello" bottom="There" description="Hello There"></character-card>
-     <character-card top="Passable" bot="Code"></character-card>
+     <character-card top="Passable" bottom="Code"></character-card>
      <character-card top="General" bottom="Kenobi"></character-card>
      
      <player-card></player-card>
